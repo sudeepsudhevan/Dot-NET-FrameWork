@@ -49,7 +49,7 @@ Partial Class Form1
         Me.btnClickThis.Name = "btnClickThis"
         Me.btnClickThis.Size = New System.Drawing.Size(187, 48)
         Me.btnClickThis.TabIndex = 0
-        Me.btnClickThis.Text = "click pls "
+        Me.btnClickThis.Text = "click This"
         Me.btnClickThis.UseVisualStyleBackColor = True
         '
         'lbIHelloworld
